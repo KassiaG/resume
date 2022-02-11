@@ -13,99 +13,74 @@
           </h1>
         </div>
         <div class="job">
-          <h2></h2>
+          <h2>教育背景：研究生 / 2021年毕业</h2>
         </div>
       </section>
+      
+      
+  <div class="content">
+    <header class="content-hd">
+      <section class="title clearfix">
+        <div class="name">
+          <h3>
+           悉尼大学 传媒硕士 WAM 78/100 (DISTINCTION) 2019.07-2020.12 
+          </h3>
+         <p> 主修: 国际传媒，社交媒体通信技术，新闻学，媒体法与道德，出版设计，电视媒体，网络媒体等</p>
+        </div>
+        <div class="job">
+          <h3>
+           蒙纳士大学 商业分析学士 CREDIT 2017.02-2019.06
+          </h3>
+          <p> 主修: 商业分析，数据建模计算，市场调研分析，统计学，精算学，机器学习，数据预测，数据展示(设计制作)等</p>
+        </div>
+        <h3>
+            郑州大学  金融学士 WAM 85/100 (二等奖学金) 2014.06-2016.10
+          </h3>
+        <p> 主修:金融学，国际金融，国际投资，商业银行经营管理，证券投资学，金融经济学，金融风险管理，证券投资基金等</p>
+      </section>
 
-      <div class="clearfix">
-        <section class="info">
-          <h2>男 / 1999.11 广西</h2>
-          <h3>本科 / 2022年毕业</h3>
-
-          <p>
-            <a target="_blank"
-              href="https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6&ie=UTF-8">
-              重庆邮电大学
-            </a>
-            软件工程+日语专业
+   
+<div class="content">
+    <header class="content-hd">
+      <section class="title clearfix">
+        <div class="name">
+          <h2>
+          联系方式 
+          </h2>
+        </div>
+        <div class="job">
+          <h3>
+           邮箱：505007189@qq.com 
+          </h3>
+        </div>
+        <h3>
+            电话：13733620208 
+          </h3>
+      </section>
+        
+      <div class="content">
+    <header class="content-hd">
+      <section class="title clearfix">
+        <div class="name">
+          <h2>
+        专业技能 
+          </h2>
+        </div>
+        <div class="job">
+          <p> 
+          熟悉新媒体运营，数据分析展示，bilingual，熟练应用 Excel, R, Tableau, SPSS, Eviews, Google Analytics，Adobe PR, PS,
+Indesign, Audition 等软件 
           </p>
+        </div>
+        <h3>
+            电话：13733620208 
+          </h3>
+      </section>
+      
 
-        </section>
+    
 
-        <section class="contact">
-          <ul>
-            <li>
-              <a class="link" href="https://wu-sili.gitee.io/resume/" target="_blank">简历网页链接</a>
-            </li>
-            <li>
-              <a href="https://www.zhihu.com/people/wu-si-li-70" target="_blank">
-                <span>知乎链接</span>
-                <i class="iconfont icon-zhihu-circle-fill"></i>
-              </a>
-            </li>
-            <li>
-              <a href="https://gitee.com/wu-sili" target="_blank">
-                <span>Gitee链接</span>
-                <i class="iconfont icon-gitee-fill-round"></i>
-              </a>
-            </li>
-            <li>
-              <a href="https://github.com/wusili" target="_blank">
-                <span>Github链接</span>
-                <i class="iconfont icon-github"></i>
-              </a>
-            </li>
-            <li>
-              <a href="tel:17687541524">
-                <span>17687541524</span>
-                <i class="iconfont icon-phone_circle_fill"></i>
-              </a>
-            </li>
-            <li>
-              <a href="mailto:498282023@qq.com">
-                <span>498282023@qq.com</span>
-                <i class="iconfont icon-mail4"></i>
-              </a>
-            </li>
-
-          </ul>
-        </section>
-      </div>
-    </header>
-
-    <div class="content-bd">
-      <div class="content-left">
-        <section id="skill">
-          <header class="section-header">
-            <span class="section-title-l"></span>
-            <h2 class="section-title">专业技能</h2>
-            <span class="section-title-r"></span>
-          </header>
-
-          <div class="section-body">
-            <div class="item">
-              <header class="item-hd clearfix">
-                <h3 class="item-name"></h3>
-              </header>
-              <div class="item-bd">
-                <p class="section-content">
-                  <i class="iconfont icon-dot"></i>
-                  熟悉<strong>HTML</strong>、<strong>CSS</strong>、<strong>JS</strong>、<strong>AJAX</strong>、<strong>ES6</strong>
-                  <p />
-              </div>
-            </div>
-
-            <div class="item">
-              <header class="item-hd clearfix"></header>
-              <div class="item-bd">
-                <p class="section-content">
-                  <i class="iconfont icon-dot"></i>
-                  熟悉 <strong>Bootstrap</strong>、<strong>Jquery</strong>，能维护该技术栈项目
-                </p>
-              </div>
-            </div>
-
-            <div class="item">
+         s="item">
               <header class="item-hd clearfix"></header>
               <div class="item-bd">
                 <p class="section-content">
@@ -485,23 +460,3 @@
 
 
 
-      </div>
-    </div>
-  </div>
-  <footer class="github-footer">
-    <a class="footer-link" href="https://gitee.com/wu-sili/resume" target="_blank">
-      <i class="iconfont icon-link"></i>
-      简历Gitee仓库
-    </a>
-  </footer>
-  <div class="btn_wrap">
-    <a class="pdf btn2" href="resume.pdf">
-      <i class="iconfont icon-pdf"></i>
-      PDF简历
-    </a>
-    <span class="edit btn2">编辑</span>
-  </div>
-  <script src="index.js"></script>
-</body>
-
-</html>
